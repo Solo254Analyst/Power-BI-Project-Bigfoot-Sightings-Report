@@ -8,16 +8,16 @@ The raw dataset was retrieved from [Pomeral Partners](https://pomerolpartners.co
 
 ## Key Takeways
 1. Most bigfoot sightings were reported in: 
-        i) Washington state
-        ii) Jackson, Piers, and Jefferson counties
+i) Washington state
+ii) Jackson, Piers, and Jefferson counties
 2. The trends show that bigfoot sightings have been dropping since 2004
 3. What are bigfoot's favorable weather conditions:
-        i) Summertime
-        ii) Gentle breeze - low wind speed
-        iii) High humidity - over 50%
-        iv) Moderately chilly and warm temperatures
-        v) Clear visibility - Most sightings were reported when the visibility score was 10 mile
-        vii) Low precipitation intensity
+i) Summertime
+ii) Gentle breeze - low wind speed
+iii) High humidity - over 50%
+iv) Moderately chilly and warm temperatures
+v) Clear visibility - Most sightings were reported when the visibility score was 10 mile
+vii) Low precipitation intensity
  
 TO SEE THE INTERACTIVE REPORT [CLICK HERE](https://www.novypro.com/project/solanalyst)
 ![Final Report-1](https://user-images.githubusercontent.com/118732615/218993765-fc563df2-61f9-4ec8-879a-7dcccf9f32e5.png)
