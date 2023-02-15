@@ -1,20 +1,20 @@
 # Power-BI-Project: Anaylsis of Bigfoot Sightings in the US
 
-This project forms part of the monthly dataDNA challenges sponsered by Pomerol Partners, a leading data analytics and visualisation consultancy. In the February 2023, Pomeral Partners shared publicly the BigFoot Sightings Dataset in their website ([see here](https://pomerolpartners.com/dataset_challenge/february-2023/)). Data analysts were to use the data to indetify key trends and traits about Bigfoot, the ape-like creature inhibiting North American forests. I particpated in the challenge and the present project showcases my report. 
+This project forms part of the monthly dataDNA challenges sponsored by Pomerol Partners, a leading data analytics and visualization consultancy. In February 2023, Pomeral Partners shared publicly the BigFoot Sightings Dataset on their website ([see here](https://pomerolpartners.com/dataset_challenge/february-2023/)). Data analysts were to use the data to identify key trends and traits of Bigfoot, the ape-like creature inhibiting North American forests. I participated in the challenge and the present project showcases my report.
 
 ## The Analysis Process
 
-The raw datadest was retrieved from [Pomeral Partners](https://pomerolpartners.com/dataset_challenge/february-2023/). MS Excel and PowerBI were used to clean and transoform the data. Finalyl, PowerBI was used for visualization and generation of the final report.
+The raw dataset was retrieved from [Pomeral Partners](https://pomerolpartners.com/dataset_challenge/february-2023/). MS Excel and PowerBI were used to clean and transform the data. Finally, PowerBI was used for visualization and generation of the final report.
 
 ## Key Takeways
-1. Most bigfot sightings were report in: 
+1. Most bigfoot sightings were reported in: 
         i) Washington state
         ii) Jackson, Piers, and Jefferson counties
-2. The trends shows that bigfoot sightings have been dropping since 2004
-3. What are bigfoot's favourable weather conditions:
+2. The trends show that bigfoot sightings have been dropping since 2004
+3. What are bigfoot's favorable weather conditions:
         i) Summertime
         ii) Gentle breeze - low wind speed
-        iii) High humidty - over 50%
+        iii) High humidity - over 50%
         iv) Moderately chilly and warm temperatures
         v) Clear visibility - Most sightings were reported when the visibility score was 10 mile
         vii) Low precipitation intensity
