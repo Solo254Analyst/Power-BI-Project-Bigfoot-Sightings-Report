@@ -1,1 +1,3 @@
-# Power-BI-Projects
+# Power-BI-Project: Anaylsis of Bigfoot Sightings in the US
+
+This project forms part of the monthly dataDNA challenges sponsered by Pomerol Partners, a leading data analytics and visualisation consultancy. In the February 2023, Pomeral Partners shared publicly the BigFoot Sightings Dataset in their website ([see here](https://pomerolpartners.com/dataset_challenge/february-2023/)). Data analysts were to use the data to indetify key trends and traits about Bigfoot, the ape-like creature inhibiting North American forests. I particpated in the challenge and the present project showcases my findings. 
